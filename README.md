@@ -27,6 +27,7 @@ Using the HoughLinesP(),detect line co-ordinates for every points in the images.
 ### Input image and grayscale image
 
 <img width="454" height="331" alt="image" src="https://github.com/user-attachments/assets/656a03ab-1035-4b3f-b692-90fd4404ee13" />
+<img width="455" height="317" alt="image" src="https://github.com/user-attachments/assets/bd29cb01-77db-4fd2-8150-4871cbf0b1b3" />
 
 ### Canny Edge detector output
 
